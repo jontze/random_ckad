@@ -9,7 +9,7 @@ edition = "2021"
 reqwest = "0.11.12"
 anyhow = "1.0.66"
 termimad = "0.20.3"
-rand = "0.8.5"
+rand = "0.9.3"
 
 [dependencies.clap]
 version = "4.0.18"
